@@ -1,0 +1,32 @@
+_repo: Heavens-and-Earth-b-A-book-of-poems_74579
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benét, Stephen Vincent
+    alias: Benet, Stephen Vincent
+    birthdate: 1898
+    deathdate: 1943
+    gutenberg_agent_id: '174'
+    url: http://www.gutenberg.org/2009/agents/174
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_Vincent_Benét
+description: ''
+gutenberg_issued: '2024-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74579'
+language: en
+pgterms:marc904: https://archive.org/details/heavensearthbook00ben/page/n7/mode/2up
+pgterms:marc905: 20230313055943bent
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Richard Tonsing, Aaron Adrignola, Tim Lindell, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bHenry Holt & Company, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Heavens and Earth : $b A book of poems'
+url: http://www.gutenberg.org/ebooks/74579
